@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TTS_PM</string>
+
+    <!-- Toolbar Titles -->
+    <string name="title_edudashboard">EduDashboard</string>
+    <string name="title_account_summary">Account Summary</string>
+    <string name="language_text">EN</string>
+    <string name="desc_back">Back</string>
+
+    <!-- Menu Items -->
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_account">Account</string>
+
+    <!-- Dashboard Fragment -->
+    <string name="dashboard_header">Course Materials Studied:</string>
+    <string name="dashboard_content">1. Layout &amp; View: UI design basics.\n2. ViewBinding: Modern way to access views.\n3. Intent: Communication between components.\n4. Localization: Supporting multiple languages.\n5. Fragment: Modular UI within Activity.</string>
+    <string name="btn_open_docs">OPEN DOCUMENTATION</string>
+
+    <!-- Account Fragment -->
+    <string name="hint_name">Student Name</string>
+    <string name="hint_nim">NIM</string>
+    <string name="hint_ipk">Target GPA</string>
+    <string name="btn_save_profile">SAVE PROFILE</string>
+    <string name="error_empty_name">Name cannot be empty</string>
+    <string name="error_empty_nim">NIM cannot be empty</string>
+    <string name="error_empty_ipk">GPA cannot be empty</string>
+    <string name="error_invalid_ipk">GPA must be between 0.00 - 4.00</string>
+    <string name="error_no_browser">No browser application found</string>
+
+    <!-- Detail Account Activity -->
+    <string name="detail_title">Data Successfully Added!</string>
+    <string name="label_name">Name:</string>
+    <string name="label_nim">NIM:</string>
+    <string name="label_ipk">Target GPA:</string>
+    <string name="label_name_value">Name: %1$s</string>
+    <string name="label_nim_value">NIM: %1$s</string>
+    <string name="label_ipk_value">Target GPA: %1$s</string>
+    <string name="placeholder_dash">-</string>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TTS_PM</string>
+
+    <!-- Toolbar Titles -->
+    <string name="title_edudashboard">EduDashboard</string>
+    <string name="title_account_summary">Ringkasan Akun</string>
+    <string name="language_text">ID</string>
+    <string name="desc_back">Kembali</string>
+
+    <!-- Menu Items -->
+    <string name="menu_dashboard">Beranda</string>
+    <string name="menu_account">Akun</string>
+
+    <!-- Dashboard Fragment -->
+    <string name="dashboard_header">Materi Kuliah yang Dipelajari:</string>
+    <string name="dashboard_content">1. Layout &amp; View: Dasar-dasar desain UI.\n2. ViewBinding: Cara modern mengakses view.\n3. Intent: Komunikasi antar komponen.\n4. Localization: Mendukung berbagai bahasa.\n5. Fragment: UI modular dalam Activity.</string>
+    <string name="btn_open_docs">BUKA DOKUMENTASI</string>
+
+    <!-- Account Fragment -->
+    <string name="hint_name">Nama Mahasiswa</string>
+    <string name="hint_nim">NIM</string>
+    <string name="hint_ipk">Target IPK</string>
+    <string name="btn_save_profile">SIMPAN PROFIL</string>
+    <string name="error_empty_name">Nama tidak boleh kosong</string>
+    <string name="error_empty_nim">NIM tidak boleh kosong</string>
+    <string name="error_empty_ipk">IPK tidak boleh kosong</string>
+    <string name="error_invalid_ipk">IPK harus antara 0.00 - 4.00</string>
+    <string name="error_no_browser">Aplikasi browser tidak ditemukan</string>
+
+    <!-- Detail Account Activity -->
+    <string name="detail_title">Data Berhasil Disimpan!</string>
+    <string name="label_name">Nama:</string>
+    <string name="label_nim">NIM:</string>
+    <string name="label_ipk">Target IPK:</string>
+    <string name="label_name_value">Nama: %1$s</string>
+    <string name="label_nim_value">NIM: %1$s</string>
+    <string name="label_ipk_value">Target IPK: %1$s</string>
+    <string name="placeholder_dash">-</string>
+</resources>
