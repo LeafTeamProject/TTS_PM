@@ -13,7 +13,7 @@
 
     <!-- Dashboard Fragment -->
     <string name="dashboard_header">Materi Kuliah yang Dipelajari:</string>
-    <string name="dashboard_content">1. Layout &amp; View: Dasar-dasar desain UI.\n2. ViewBinding: Cara modern mengakses view.\n3. Intent: Komunikasi antar komponen.\n4. Localization: Mendukung berbagai bahasa.\n5. Fragment: UI modular dalam Activity.</string>
+    <string name="dashboard_content">1. Layout &amp; View (ConstraintLayout) UI.\n2. ViewBinding &amp; Interaction.\n3. Intent (Excplicit &amp; Implicit. \n4. FragmentLifecycle.\n5. Localization.\n6. Fragment.</string>
     <string name="btn_open_docs">BUKA DOKUMENTASI</string>
 
     <!-- Account Fragment -->
