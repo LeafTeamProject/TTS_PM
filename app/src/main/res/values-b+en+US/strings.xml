@@ -34,6 +34,6 @@
     <string name="label_ipk">Target GPA:</string>
     <string name="label_name_value">Name: %1$s</string>
     <string name="label_nim_value">NIM: %1$s</string>
-    <string name="label_ipk_value">Target GPA: %1$s</string>
+    <string name="label_ipk_value">Target GPA (1.00 - 4.00): %1$s</string>
     <string name="placeholder_dash">-</string>
 </resources>
